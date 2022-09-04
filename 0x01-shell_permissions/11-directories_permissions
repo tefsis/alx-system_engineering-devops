@@ -1,3 +1,2 @@
 #!/bin/bash
-d755
-
+chmod dx
