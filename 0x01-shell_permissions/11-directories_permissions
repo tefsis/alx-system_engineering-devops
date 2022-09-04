@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod dx
+chmod drwxr-xr-x
+
