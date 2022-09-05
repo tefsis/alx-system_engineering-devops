@@ -1,3 +1,4 @@
 #!/bin/bash
-cat /etc/pass | sort
+cat /etc/passwd | sort
+
 
